@@ -5,7 +5,7 @@ This project includes three small hands-on exercises designed to strengthen my s
 
 ---
 
-![image](img\image_1.png)
+![image](img/image_1.png)
 
 ## 🧭 Part 1: Linux Filesystem Hierarchy
 
