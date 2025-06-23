@@ -32,7 +32,7 @@ This project includes three small hands-on exercises designed to strengthen my s
 
 ---
 
-## 🛠️ Part 3: Essential Commands (TP1)
+## 🛠️ Part 3: Essential Commands 
 
 ### Steps completed:
 1. **Create a directory called `TP1` and enter it:**  
